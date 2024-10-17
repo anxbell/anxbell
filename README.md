@@ -9,7 +9,7 @@ I am a software development student, working towards my degree while gaining exp
 - Vue.js 
 
 🎮 **Outside of tech**  
-I enjoy playing video games, volunteering, and listening to music. I'm passionate about creating content that inspires others in the tech community.
+I enjoy playing video games, volunteering, and listening to music. I'm passionate about learning and helping people through my work.
 
 📫 **Reach out to me at**  
 valerieanabell@gmail.com  
