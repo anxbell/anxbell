@@ -17,7 +17,7 @@ valerieanabell@gmail.com
 [LinkedIn](http://www.linkedin.com/in/valerieanabell)
 
 
-## 🛠 My Skills Include
+# 🛠 My Skills Include
 
 **Languages:**
 
