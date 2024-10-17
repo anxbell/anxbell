@@ -1,5 +1,5 @@
 # Hi, I'm Valerie👋
-
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 ✨ **About Me**  
 I am a software development student, working towards my degree while gaining experience in object-oriented programming and web development. I have a passion for solving problems and learning new technologies. I'm always looking for opportunities to collaborate on exciting projects and expand my knowledge!
 
