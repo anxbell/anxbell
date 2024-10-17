@@ -1,4 +1,4 @@
-# Hi, I'm Valerie Anabell Sanchez 👋
+# Hi, I'm Valerie👋
 ---
 
 ✨ **About Me**  
