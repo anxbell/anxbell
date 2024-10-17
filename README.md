@@ -1,5 +1,4 @@
 # Hi, I'm Valerie👋
----
 
 ✨ **About Me**  
 I am a software development student, working towards my degree while gaining experience in object-oriented programming and web development. I have a passion for solving problems and learning new technologies. I'm always looking for opportunities to collaborate on exciting projects and expand my knowledge!
@@ -18,7 +17,6 @@ I enjoy playing video games, volunteering, and listening to music. I'm passionat
 valerieanabell@gmail.com  
 [LinkedIn](http://www.linkedin.com/in/valerieanabell)
 
----
 
 ## 🛠 My Skills Include
 
