@@ -7,7 +7,6 @@ I am a software development student, working towards my degree while gaining exp
 🌱 **I’m currently learning**  
 - C#  
 - Python
-- Vue.js 
 
 🎮 **Outside of tech**  
 I enjoy playing video games, volunteering, and listening to music. I'm passionate about learning and helping people through my work.
